@@ -26,7 +26,7 @@ Sahu, Himanshu, Gupta, Hari Prabhat,Vardhan, Vishnu Puvvada,Mishra Rahul. "DevQC
 
 ## Code Contributor 
 1. Vishnu Vardhan Puvvada
-2. Himanshu Sahu
+2. Dr. Rahul Mishra
 
 
 
