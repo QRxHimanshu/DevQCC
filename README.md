@@ -21,4 +21,5 @@ If you use DevQCC in your work, we would appreciate it if you cite our paper:
 Sahu, Himanshu, Gupta, Hari Prabhat,Vardhan, Vishnu Puvvada,Mishra Rahul. "DevQCC: Device-Aware Quantum Circuit Cutting Framework with Applications in Quantum Machine Learning." Quantum Mach. Intell. X, XX (2025). https://doi.org/10.XXXXXXXXXXXXX
 
 Contact Us
-Please open an issue here. Please reach out to Himanshu Sahu.
+* Please open an issue on this repository for support.
+* Please reach out to Himanshu Sahu.
