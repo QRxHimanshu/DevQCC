@@ -28,10 +28,9 @@ Sahu, Himanshu, Gupta, Hari Prabhat,Vardhan, Vishnu Puvvada,Mishra Rahul. "DevQC
 1. Vishnu Vardhan Puvvada
 2. Dr. Rahul Mishra
 
-[1]. Tang, Wei, Teague Tomesh, Martin Suchara, Jeffrey Larson, and Margaret Martonosi. "CutQC: using small quantum computers for large quantum circuit evaluations." In Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, pp. 473-486. 2021.
-
-
-
 Contact Us
 * Please open an issue on this repository for support.
 * Please reach out to Himanshu Sahu.
+
+[1]. Tang, Wei, Teague Tomesh, Martin Suchara, Jeffrey Larson, and Margaret Martonosi. "CutQC: using small quantum computers for large quantum circuit evaluations." In Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, pp. 473-486. 2021.
+
