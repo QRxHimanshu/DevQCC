@@ -1,4 +1,8 @@
 # DevQCC
+The DevQCC codebase is useful for those working in:
+* Distributed Quantum Computing
+* Quantum Machine Learning (QML)
+
 ## Working with the github repository
 DevQCC is the backend code for the paper DevQCC: Device-Aware Quantum Circuit Cutting Framework with Applications in Quantum Machine Learning. The codes are adopted from CutQC [ ] which  cuts large quantum circuits into smaller subcircuits and runs on small quantum computers. We identified that there is a research gap in the proper framework which is device aware so we appended the CutQC framework to append device awareness and found out that device aware circuit cutting and distribution is more effective in terms of fidelity and accuracy in QML applications. We also extended the DevQCC framework for machine learning applications as its requirements are quite different from other quantum circuits due to the data intensive and iterative nature.   The code base is useful for those who work in distributed quantum computing as well as quantum machine learning. 
 
